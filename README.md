@@ -31,6 +31,8 @@ Assicurarsi che **tshark** sia installato:
 - Windows: installare da https://www.wireshark.org
 
 ## Esecuzione
+Apri wireshark e utilizza il browser per configurare il device.
+Terminate le operazioni salva il file. Ora puoi usare lo script.
 ```
 python estrai_snmpset_http.py
 ```
