@@ -41,5 +41,7 @@ Si aprirà automaticamente l'interfaccia grafica per:
 2. Scegliere percorso del file di output.
 3. Inserire più volte (se necessario) coppie IP/Host.
 
+ERRORI 
+Installare la versione exe di python. Con la versione installer ho verificato che lo script non si conclude a causa di un errore.
 ## Autore
 M. Fumagalli
